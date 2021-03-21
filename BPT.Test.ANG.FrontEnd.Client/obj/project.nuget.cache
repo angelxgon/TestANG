@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AerNBBPy3P0kkDXE9O/+z1bh4Cacx47P6tuY1r02UQ5sGkfD+eEoZEh/YQ+09wH824iRv0q8TvF9og2Y1shr5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DITEC021\\source\\PruebaPagaTodo\\BPT.Test.ANG\\BPT.Test.ANG.FrontEnd.Client\\BPT.Test.ANG.FrontEnd.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DITEC021\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

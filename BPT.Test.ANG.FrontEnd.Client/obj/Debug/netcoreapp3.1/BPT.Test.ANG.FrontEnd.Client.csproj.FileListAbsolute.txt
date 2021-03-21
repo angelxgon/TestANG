@@ -1,0 +1,14 @@
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.exe
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.deps.json
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.runtimeconfig.json
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.runtimeconfig.dev.json
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.AssemblyInfoInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.AssemblyInfo.cs
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.csproj.CoreCompileInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.csproj.CopyComplete
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.ANG.FrontEnd.Client.genruntimeconfig.cache

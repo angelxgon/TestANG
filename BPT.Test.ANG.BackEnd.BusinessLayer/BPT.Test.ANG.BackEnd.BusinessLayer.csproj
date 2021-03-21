@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BPT.Test.ANG.BackEnd.DataAccess\BPT.Test.ANG.BackEnd.DataAccess.csproj" />
+    <ProjectReference Include="..\BPT.Test.ANG.BackEnd.EntityLayer\BPT.Test.ANG.BackEnd.EntityLayer.csproj" />
+  </ItemGroup>
+
+</Project>

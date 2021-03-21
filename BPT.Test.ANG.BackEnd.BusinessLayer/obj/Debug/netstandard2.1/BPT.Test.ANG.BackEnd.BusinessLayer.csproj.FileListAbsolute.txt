@@ -1,0 +1,14 @@
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.deps.json
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.AssemblyInfo.cs
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.csproj.CopyComplete
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.BusinessLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.BusinessLayer.pdb

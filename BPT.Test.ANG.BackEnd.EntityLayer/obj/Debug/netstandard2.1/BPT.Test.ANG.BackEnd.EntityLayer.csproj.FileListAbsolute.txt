@@ -1,0 +1,8 @@
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.deps.json
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.AssemblyInfo.cs
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.EntityLayer\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.pdb

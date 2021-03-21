@@ -1,0 +1,12 @@
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.deps.json
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.EntityLayer.pdb
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.csprojAssemblyReference.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.AssemblyInfo.cs
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.csproj.CopyComplete
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.dll
+C:\Users\DITEC021\source\PruebaPagaTodo\BPT.Test.ANG\BPT.Test.ANG.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.ANG.BackEnd.DataAccess.pdb
